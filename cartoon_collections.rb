@@ -21,7 +21,8 @@ def long_planeteer_calls(summon_captain_planet)
 end
 
 
-def find_the_cheese(array)
+def find_the_cheese(snacks)
   cheese_types = ["cheddar", "gouda", "camembert"]
   array.include?(cheese_types)
+
 end
