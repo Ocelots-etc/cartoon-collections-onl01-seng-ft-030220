@@ -21,7 +21,7 @@ def long_planeteer_calls(summon_captain_planet)
 end
 
 
-def find_the_cheese(cheese)
+def find_the_cheese(scacks)
   cheese_types = ["cheddar", "gouda", "camembert"]
-
+  cheese
 end
