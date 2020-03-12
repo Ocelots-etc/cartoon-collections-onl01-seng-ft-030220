@@ -48,8 +48,9 @@ def long_planeteer_calls(summon_captain_planet)
   i = 0
   if summon_captain_planet.each.count < 5
     i += 1
-    long_planeteer_calls = false
+  
   else
+      long_planeteer_calls = false
   end
 
 end
