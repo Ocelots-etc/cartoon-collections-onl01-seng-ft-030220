@@ -16,7 +16,7 @@ def long_planeteer_calls(summon_captain_planet)
     i += 1
     long_planeteer_calls = true
   else
-      long_planeteer_calls = false
+    long_planeteer_calls = false
   end
 end
 
