@@ -19,9 +19,7 @@ def long_planeteer_calls(summon_captain_planet)
       long_planeteer_calls = false
   end
 end
-#if planeteer_calls.each { |element| element.count > 5 }
-#    i += 1
-  #if array[i]  {i.length >= 4 ? true : false }
+
 
 def find_the_cheese# code an argument here
   # the array below is here to help
