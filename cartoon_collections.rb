@@ -44,6 +44,7 @@ end
 
 
 def long_planeteer_calls(summon_captain_planet)
+  long_planeteer_calls = true
   i = 0
   summon_captain_planet.each |element|
    if element.count > 5?
