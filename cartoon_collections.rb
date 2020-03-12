@@ -23,5 +23,5 @@ end
 
 def find_the_cheese(scacks)
   cheese_types = ["cheddar", "gouda", "camembert"]
-  cheese
+  snacks.include?(cheese_types)
 end
