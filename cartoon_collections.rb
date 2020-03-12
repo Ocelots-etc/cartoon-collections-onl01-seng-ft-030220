@@ -25,7 +25,3 @@ def find_the_cheese# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
-
-#planeteer_calls
-    #yield(planeteer_calls[i]) |element|
-        #puts "#{element}"
